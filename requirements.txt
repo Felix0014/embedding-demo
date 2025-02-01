@@ -1,0 +1,4 @@
+qdrant-client==1.13.2
+openai==1.60.2
+python-dotenv==1.0.1
+scikit-learn==1.6.1
